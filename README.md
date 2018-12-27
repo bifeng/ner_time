@@ -55,3 +55,8 @@ https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/chinese-timex2-guideline
 基于依存分析和错误驱动的中文时间表达式识别, 2007
 
 CTEMP : a Chinese temporal parser for extracting and normalizing temporal information, 2005
+
+中文时间信息的TIMEX2自动标注，2008
+
+中文时间表达式及类型识别，2012
+
